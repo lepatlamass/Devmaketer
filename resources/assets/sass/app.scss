@@ -8,3 +8,7 @@
 @import "node_modules/bulma/bulma";
 //bulma vue modules
 @import "node_modules/buefy/src/scss/buefy";
+// Custom sas pages
+@import "overrides";
+@import "helpers";
+@import "styles";
